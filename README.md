@@ -12,10 +12,12 @@
  <img src="https://camo.githubusercontent.com/f0b95394ffc005b03c6f4fdad0c7acc8e6a4007f5bf1508aa684fffcd1191aa2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-##  ⚡ Fullstack Project
+##  ⚡ Fullstack Projects
+
+<p align="center">
 
  <img src="https://user-images.githubusercontent.com/107660704/201497588-0697625b-0d9c-43ae-ac95-46eeae5ae0d9.JPG" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-
+</p>
 
 
 
@@ -54,5 +56,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- ![foodsnitch](https://user-images.githubusercontent.com/107660704/201497588-0697625b-0d9c-43ae-ac95-46eeae5ae0d9.JPG)
 -->
-![foodsnitch](https://user-images.githubusercontent.com/107660704/201497588-0697625b-0d9c-43ae-ac95-46eeae5ae0d9.JPG)
