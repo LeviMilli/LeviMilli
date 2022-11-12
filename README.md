@@ -20,8 +20,10 @@
 </p>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/107660704/201498226-63c0c126-30b9-44ba-8efe-a4f40698ea4c.JPG" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/107660704/201498222-427107ab-a7f1-468e-bd0f-812bb9095d06.JPG" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <a href="https://github.com/LeviMilli/foodSnitch-client" target="_blank" rel="noopener noreferrer">
+ <img src="https://user-images.githubusercontent.com/107660704/201498226-63c0c126-30b9-44ba-8efe-a4f40698ea4c.JPG" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> </a>
+  <a href="https://github.com/LeviMilli/foodSnitch-server" target="_blank" rel="noopener noreferrer">
+ <img src="https://user-images.githubusercontent.com/107660704/201498222-427107ab-a7f1-468e-bd0f-812bb9095d06.JPG" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
 
 
