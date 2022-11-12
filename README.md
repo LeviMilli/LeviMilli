@@ -22,17 +22,15 @@
 
 
 
-💬 Ask me about
+💬 About me
 
 
 * Backend web development (Express, Node.js, MongoDB)
 * Frontend web development (React, Javascript)
-* Docker
-* Deep Learning and Machine Learning
-* Cloud Architecture
-* Design Patterns
-* Gardening (Bonsai enthusiast 🌲)
-📅 Hob
+* Gaming
+* Fitness
+* WEB3
+* Las Vegas, NV
 
 <p align="center">
  <a href="https://github.com/LeviMilli" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
