@@ -14,8 +14,7 @@
 
 ##  ⚡ Fullstack Project
 
- <img src="![foodsnitch](https://user-images.githubusercontent.com/107660704/201497557-a2b9823e-5875-4781-90bf-cbb784adc05c.JPG)
-" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/107660704/201497588-0697625b-0d9c-43ae-ac95-46eeae5ae0d9.JPG" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
 
 
@@ -56,3 +55,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![foodsnitch](https://user-images.githubusercontent.com/107660704/201497588-0697625b-0d9c-43ae-ac95-46eeae5ae0d9.JPG)
