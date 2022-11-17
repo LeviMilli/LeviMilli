@@ -15,8 +15,9 @@
 ##  ⚡ Fullstack Projects
 
 <p align="center">
-
+<a href="https://foodsnitch.herokuapp.com/" target="_blank" rel="noopener noreferrer">
  <img src="https://user-images.githubusercontent.com/107660704/201497588-0697625b-0d9c-43ae-ac95-46eeae5ae0d9.JPG" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
+<a/>
 </p>
 
 <p align="center">
