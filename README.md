@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Levi</h1>
 <h3 align="center">A passionate fullstack developer with a deep interest in web3</h3>
 
-- 🔭 Fullstack projects [foodSnitch](https://github.com/LeviMilli/foodSnitch-server)
+- 🔭 Fullstack projects [foodSnitch](https://github.com/LeviMilli/foodSnitch-server) - [RootCrypto](https://github.com/LeviMilli/CryptoTracks)
 
 - 🌱 I’m currently learning - **More fullstack and web3**
 
