@@ -5,7 +5,13 @@
 
 - 🌱 I’m currently learning **More fullstack and web3**
 
-- 💬 Ask me about **Fullstack web development, gaming, web3, fitness**
+- 💬 Ask me about 
+
+- **Fullstack web development 
+- Gaming 
+- -Web3 -
+- Fitness 
+- -Pokemon**
 
 - 📫 How to reach me **levi.millikin@gmail.com**
 
