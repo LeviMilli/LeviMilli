@@ -3,17 +3,11 @@
 
 - 🔭 Fullstack projects [foodSnitch](https://github.com/LeviMilli/foodSnitch-server)
 
-- 🌱 I’m currently learning **More fullstack and web3**
+- 🌱 I’m currently learning - **More fullstack and web3**
 
-- 💬 Ask me about 
+- 💬 Ask me about - **Fullstack web development - Gaming - Web3 - Fitness - Pokemon**
 
-- **Fullstack web development 
-- Gaming 
-- -Web3 -
-- Fitness 
-- -Pokemon**
-
-- 📫 How to reach me **levi.millikin@gmail.com**
+- 📫 How to reach me - **levi.millikin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
