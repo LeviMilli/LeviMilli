@@ -3,9 +3,11 @@
 
 - 🔭 Fullstack projects - [CryptoTrove](https://github.com/LeviMilli/CryptoTrove) - [FoodMate](https://github.com/LeviMilli/foodSnitch-server)
 
-- 💬 Ask me about - **Fullstack web development - Gaming - Blockchain - Fitness - Pokemon**
+- 💬 Ask me about - **Fullstack Development - Gaming - Blockchain - Fitness - Pokemon**
 
 - 📫 How to reach me - **levi.millikin@gmail.com**
+
+- 🖥️ Check out my dev Porfolio **levi-millikin.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
