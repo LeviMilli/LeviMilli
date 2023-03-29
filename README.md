@@ -7,7 +7,7 @@
 
 - 📫 How to reach me - **levi.millikin@gmail.com**
 
-- 🖥️ Check out my dev Porfolio **levi-millikin.vercel.app**
+- 🖥️ Check out my dev Porfolio **https://levi-millikin.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
