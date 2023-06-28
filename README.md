@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Levi</h1>
-<h3 align="center">A fullstack developer with a deep interest in web3</h3>
+<h3 align="center">A Fullstack Web3 Engineer</h3>
 
 - 🔭 Fullstack projects - [CryptoTrove](https://github.com/LeviMilli/CryptoTrove) - [FoodMate](https://github.com/LeviMilli/foodSnitch-server)
 
