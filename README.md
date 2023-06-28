@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Levi</h1>
 <h3 align="center">A Fullstack Web3 Engineer</h3>
 
-- 🔭 Fullstack projects - [CryptoTrove](https://github.com/LeviMilli/CryptoTrove) - [FoodMate](https://github.com/LeviMilli/foodSnitch-server)
+- 🔭 Fullstack projects - [CryptoTrove](https://github.com/LeviMilli/CryptoTrove) - [FoodMate](https://github.com/LeviMilli/foodSnitch-server)  [Sepolia Dex Swap](https://github.com/LeviMilli/DEX-Sepolia)
 
 - 💬 Ask me about - **Fullstack Development - Gaming - Blockchain - Fitness - Pokemon**
 
